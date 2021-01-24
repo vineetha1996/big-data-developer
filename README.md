@@ -14,6 +14,10 @@ I am fascinated to work as a Full-Stack Engineer for building websites.
 - [GitHub_Link](https://github.com/vineetha1996)
 - [LinkedIn](https://www.linkedin.com/in/vineetha-yenugula-84a88b19a/)
 
+## Skills
+- PowerShell
+- Bash
+
 ## Image
 ![my_Image](https://github.com/vineetha1996/big-data-developer/blob/main/IMG_3453.JPG)
 
