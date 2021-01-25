@@ -19,6 +19,9 @@ I am fascinated to work as a Full-Stack Engineer for building websites.
 - PowerShell
 - Bash
 
+## Tools
+- Git
+
 ## Image
 ![my_Image](https://github.com/vineetha1996/big-data-developer/blob/main/IMG_3453.JPG)
 
